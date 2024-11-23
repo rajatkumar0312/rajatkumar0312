@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajatkumar0312
-- 👀 I’m interested in developing new apps and tools that make life easier.
-- 🌱 I’m currently learning ReactJS, NodeJS
-- 💞️ I’m looking to collaborate on JS projects
+- 👋 Hi, I’m @rajat
+- 👀 I develop new apps and tools that make life easier and can be free to use.
+- 🌱 Building on NEXT
+- 💞️ I’m looking to collaborate on JS projects (FrontEnd with BootStrap/TailWind)
 - 📫 How to reach me via rajatkumar0312@gmail.com
 
 <!---
